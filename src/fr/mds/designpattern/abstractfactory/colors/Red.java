@@ -1,6 +1,6 @@
 package fr.mds.designpattern.abstractfactory.colors;
 
-import fr.mds.designpattern.abstractfactory.globals.Item;
+import fr.mds.designpattern.abstractfactory.items.Item;
 
 public class Red implements Color, Item {
     public static final String RED = "red";

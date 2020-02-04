@@ -1,6 +1,6 @@
 package fr.mds.designpattern.abstractfactory.shapes;
 
-import fr.mds.designpattern.abstractfactory.globals.Item;
+import fr.mds.designpattern.abstractfactory.items.Item;
 
 public class Rectangle implements Shape, Item {
     public static final String RECTANGLE = "rectangle";
